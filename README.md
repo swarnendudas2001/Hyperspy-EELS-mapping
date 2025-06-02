@@ -2,13 +2,13 @@
 Low loss EELS mapping (peak postion, peak intensity and thickness map from zero-loss intensity)
 
 # Parameters used in the functions
-e_axis_start: starting value of our energy range of interest (in eV)
-e_axis_end: ending value of our energy range of interest (in eV)
-roi_size: edge length of our square region of interest (in pixels)
-roi_x: x-coordinate of the origin (top-left corner) of our square region of interest
-roi_y: y-coordinate of the origin (top-left corner) of our square region of interest
-x: x dimension of our spectrum image (in pixels)
-y: y dimension of our spectrum image (in pixels)
+e_axis_start: starting value of our energy range of interest (in eV)  
+e_axis_end: ending value of our energy range of interest (in eV)  
+roi_size: edge length of our square region of interest (in pixels)  
+roi_x: x-coordinate of the origin (top-left corner) of our square region of interest  
+roi_y: y-coordinate of the origin (top-left corner) of our square region of interest  
+x: x dimension of our spectrum image (in pixels)  
+y: y dimension of our spectrum image (in pixels)  
 save_dir: location of folder to save the output figures
 
 # Function to sum spectra from each pixel of a region of interest (ROI) in the spectrum image 
