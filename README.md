@@ -1,5 +1,6 @@
 # Hyperspy-EELS-mapping
 Low loss EELS mapping (peak postion, peak intensity and thickness map from zero-loss intensity)
+Hyperspy version: 2.1.0
 
 # Parameters used in the functions
 e_axis_start: starting value of our energy range of interest (in eV)  
